@@ -30,3 +30,7 @@ import projekt
 
 # Príklad použitia
 projekt.example_function()
+
+## Prispievanie
+
+<https://www.youtube.com/watch?v=VSg4KGcGomI&list=PLfZw_tZWahjxp0udXMdTcu0QjX0k1QzUz>
