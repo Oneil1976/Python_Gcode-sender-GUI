@@ -29,8 +29,8 @@ Popis, ako používať projekt po inštalácii. Uveďte príklady, príkazy aleb
 import projekt
 
 # Príklad použitia
-projekt.example_function()
-
+projekt.example_function()  
+```
 ## Prispievanie
 
 <https://www.youtube.com/watch?v=VSg4KGcGomI&list=PLfZw_tZWahjxp0udXMdTcu0QjX0k1QzUz>
